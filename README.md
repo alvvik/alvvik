@@ -24,8 +24,3 @@ I'm an aspiring Frontend /  focused on mastering the React and Next.js ecosystem
 - **Tech stack:** React 19, Tailwind CSS, firebase,firestore.
 - **Things I learned:** Global user state, react router, responsive web design.
 -  [Live Demo](https://foyer.alvv.ovh/)
-
-#### 2. [Ritual](https://github.com/alvvik/Ritual)
-*Short description of your second project.*
-- **Tech stack:** Nextjs,Tailwind CSS.
-- **Things I learned:** ...
